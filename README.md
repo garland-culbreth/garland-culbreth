@@ -2,9 +2,8 @@
 
 I'm a research Scientist at IHME developing and applying next-generation population health data analysis and statistical modeling tools. I also build numerical models for adaptive complex network dynamics, agent-based networks, and reinforcement learning on complex networks. I have a PhD in theoretical and computational physics, focusing on complex systems and nonlinear dynamics, with applications to computational social science and decision theory. 
 
-## Languages and frameworks
+## Languages
 
-### Languages
 |Python|R|MATLAB|
 |:---:|:---:|:---:|
 |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="48">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="48">|
