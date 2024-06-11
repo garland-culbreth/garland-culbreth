@@ -4,9 +4,9 @@ I'm a research Scientist at IHME developing and applying next-generation populat
 
 ## Languages and tools
 
-|Python|R|MATLAB|SQL|
+|Python|R|SQL|MATLAB|
 |:---:|:---:|:---:|:---:|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="48">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="48">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48">|
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="48">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48">|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" width="48">|
 
 <!--
 **garland-culbreth/garland-culbreth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
