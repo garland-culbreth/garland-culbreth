@@ -2,7 +2,7 @@
 
 I'm a research Scientist at IHME developing and applying next-generation population health data analysis and statistical modeling tools. I also build numerical models for adaptive complex network dynamics, information diffusion, and echo chamber formation by reinforcement learning. I have a PhD in theoretical and computational physics focusing on complex systems and nonlinear dynamics, with applications to computational social science and decision theory. 
 
-## Languages and tools
+### Languages and tools
 
 |Python|R|SQL|MATLAB|
 |:---:|:---:|:---:|:---:|
