@@ -1,0 +1,63 @@
+site_name: Garland Culbreth
+site_description: an example blog set up following the tutorial
+site_url: http://www.example.com
+
+theme:
+  name: material
+  icon:
+    logo: material/account
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      primary: "custom"
+      accent: "custom"
+      toggle:
+        icon: "material/brightness-auto"
+        name: "Switch to light mode"
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: "default"
+      primary: "custom"
+      accent: "custom"
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: "slate"
+      primary: "custom"
+      accent: "custom"
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  font:
+    text: Inter
+    code: JetBrains Mono
+  features:
+    - navigation.tracking
+    - navigation.top
+    - toc.follow
+    - content.code.copy
+
+plugins:
+  - blog:
+      archive_date_format: yyyy-MM
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+# nav:
+#   - Home: index.md
+#   - Install: install.md
+#   - Usage: usage.md
+#   - Blog:
+#      - blog/index.md
+
+extra_css:
+  - stylesheets/extra.css
