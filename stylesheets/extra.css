@@ -1,0 +1,83 @@
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:        #eceef0;
+  --md-primary-fg-color--light: #eceef0;
+  --md-primary-fg-color--dark:  #eceef0;
+  --md-primary-bg-color:        #5C6166;
+  --md-primary-bg-color--light: #787B8099;
+
+  --md-accent-fg-color:              #9F40FFff;
+  --md-accent-fg-color--transparent: #9F40FFCC;
+  --md-accent-bg-color:              #9F40FFff;
+  --md-accent-bg-color--light:       #9F40FFCC;
+
+  --md-typeset-a-color: #9F40FFCC;
+
+  --md-default-fg-color:           #5C6166;
+  --md-default-fg-color--light:    #787B8099;
+  --md-default-fg-color--lighter:  #787B8099;
+  --md-default-fg-color--lightest: #B8CFE680;
+  --md-default-bg-color:           #F8F9FA;
+  --md-default-bg-color--light:    #F8F9FA;
+  --md-default-bg-color--lighter:  #F8F9FA;
+  --md-default-bg-color--lightest: #F8F9FA;
+
+  --md-footer-fg-color:          #787B8099;
+  --md-footer-fg-color--light:   #787B8099;
+  --md-footer-fg-color--lighter: #787B8099;
+  --md-footer-bg-color:          #F3F4F5;
+  --md-footer-bg-color--dark:    #F3F4F5;
+
+  --md-code-fg-color:        #5C6166;
+  --md-code-bg-color:        #FCFCFC;
+  --md-code-hl-color:        #035BD626;
+  --md-code-hl-color--light: #035BD612;
+  
+  --md-code-hl-number-color:   #A37ACC;
+  --md-code-hl-special-color:  #E6BA7E;
+  --md-code-hl-function-color: #F2AE49;
+  --md-code-hl-constant-color: #A37ACC;
+  --md-code-hl-keyword-color:  #FA8D3E;
+  --md-code-hl-string-color:   #86B300;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #242936;
+  --md-primary-fg-color--light: #242936;
+  --md-primary-fg-color--dark:  #242936;
+  --md-primary-bg-color:        #CCCAC2;
+  --md-primary-bg-color--light: #B8CFE680;
+
+  --md-accent-fg-color:              #bb77ff;
+  --md-accent-fg-color--transparent: #bb77ffcc;
+  --md-accent-bg-color:              #bb77ff;
+  --md-accent-bg-color--light:       #bb77ffcc;
+
+  --md-typeset-a-color: #bb77ffcc;
+
+  --md-default-fg-color:           #CCCAC2;
+  --md-default-fg-color--light:    #B8CFE680;
+  --md-default-fg-color--lighter:  #B8CFE680;
+  --md-default-fg-color--lightest: #B8CFE680;
+  --md-default-bg-color:           #1F2430;
+  --md-default-bg-color--light:    #1F2430;
+  --md-default-bg-color--lighter:  #1F2430;
+  --md-default-bg-color--lightest: #1F2430;
+
+  --md-footer-fg-color:          #B8CFE680;
+  --md-footer-fg-color--light:   #B8CFE680;
+  --md-footer-fg-color--lighter: #B8CFE680;
+  --md-footer-bg-color:          #1C212B;
+  --md-footer-bg-color--dark:    #1C212B;
+
+  --md-code-fg-color:        #CCCAC2;
+  --md-code-bg-color:        #242936;
+  --md-code-hl-color:        #409FFF40;
+  --md-code-hl-color--light: #409FFF21;
+  
+  --md-code-hl-number-color:   #DFBFFF;
+  --md-code-hl-special-color:  #FFDFB3;
+  --md-code-hl-function-color: #FFD173;
+  --md-code-hl-constant-color: #DFBFFF;
+  --md-code-hl-keyword-color:  #FFAD66;
+  --md-code-hl-string-color:   #D5FF80;
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>http://www.example.com/</loc>
+         <lastmod>2025-07-05</lastmod>
+    </url>
+    <url>
+         <loc>http://www.example.com/about/</loc>
+         <lastmod>2025-07-05</lastmod>
+    </url>
+    <url>
+         <loc>http://www.example.com/projects/</loc>
+         <lastmod>2025-07-05</lastmod>
+    </url>
+    <url>
+         <loc>http://www.example.com/blog/</loc>
+         <lastmod>2025-07-05</lastmod>
+    </url>
+    <url>
+         <loc>http://www.example.com/blog/2025/06/28/discord-axioms-for-dev/</loc>
+         <lastmod>2025-07-05</lastmod>
+    </url>
+    <url>
+         <loc>http://www.example.com/blog/2025/06/29/my-yaml-rules/</loc>
+         <lastmod>2025-07-05</lastmod>
+    </url>
+    <url>
+         <loc>http://www.example.com/blog/archive/2025/</loc>
+         <lastmod>2025-07-05</lastmod>
+    </url>
+</urlset>
